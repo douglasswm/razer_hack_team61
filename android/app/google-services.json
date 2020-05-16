@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "124422453465",
+    "firebase_url": "https://razer-hack.firebaseio.com",
+    "project_id": "razer-hack",
+    "storage_bucket": "razer-hack.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:124422453465:android:2498e9dd09d756da2c26c8",
+        "android_client_info": {
+          "package_name": "com.nimbus.razerhack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "124422453465-tt7i3du1p19ota355n5is5377uaeo9gk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nimbus.razerhack",
+            "certificate_hash": "0f66a6b1bed9538beb35d3445c11837898271c96"
+          }
+        },
+        {
+          "client_id": "124422453465-uj7ehnshsg2416nujj2kuq0a5aao6aua.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFGTunRKe1LQBfN4fAFSpMYzbiRinTlB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "124422453465-uj7ehnshsg2416nujj2kuq0a5aao6aua.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

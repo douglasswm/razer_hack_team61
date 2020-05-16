@@ -79,7 +79,7 @@ class _GoalScreenState extends State<GoalScreen> {
                           ),
                         ),
                         FutureBuilder(
-                          future: ,
+                          future: null,
                           builder: (context, snapshot) {
                             if (!snapshot.hasData) {
                         return Center(
